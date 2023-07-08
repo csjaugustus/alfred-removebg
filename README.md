@@ -1,6 +1,8 @@
 # removebg-alfred-workflow
 An Alfred workflow that uses the RemoveBG API to remove plain image backgrounds.
 Uses the removebg API to remove white (or other plain colors) backgrounds from any given image.
+File types supported: .jpeg/.jpg/.png/.webp
+Non-PNG images will be converted to PNG first automatically.
 Supports keyword trigger or Universal Action.
 
 ## Installation
