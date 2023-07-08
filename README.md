@@ -1,4 +1,5 @@
-# removebg-alfred-workflow
+# RemoveBG Alfred Workflow
+Download workflow from [Packal page](http://www.packal.org/workflow/removebg).<br>
 An Alfred workflow that uses the RemoveBG API to remove plain image backgrounds.<br>
 Uses the removebg API to remove white (or other plain colors) backgrounds from any given image.<br>
 File types supported: .jpeg/.jpg/.png/.webp<br>
