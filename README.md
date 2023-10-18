@@ -1,5 +1,5 @@
+![CleanShot 2023-10-18 at 15 38 06@2x](https://github.com/csjaugustus/removebg-alfred-workflow/assets/61149391/385a4fda-3bd0-45f2-9d51-cee9eeed9589)
 
-# RemoveBG Al![Uploading CleanShot 2023-10-18 at 15.38.06@2x.png…]()
 
 fred Workflow
 An Alfred workflow that uses the RemoveBG API to remove plain image backgrounds.<br>
