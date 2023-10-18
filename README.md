@@ -1,4 +1,7 @@
-# RemoveBG Alfred Workflow
+
+# RemoveBG Al![Uploading CleanShot 2023-10-18 at 15.38.06@2x.png…]()
+
+fred Workflow
 An Alfred workflow that uses the RemoveBG API to remove plain image backgrounds.<br>
 Uses the removebg API to remove white (or other plain colors) backgrounds from any given image.<br>
 File types supported: .jpeg/.jpg/.png/.webp<br>
