@@ -15,4 +15,4 @@ Supports keyword trigger or File Action.<br>
 ## Usage
 1. Keyword Trigger: `rmbg` filename (supports single file only)
 2. File Action: Select one or multiple files, and choose "Remove BG" from the results.<br>
-Note: All changes will be in-place, meaning the original image will be replaced.
+3. In File Action there is an option to choose in-place/non in-place. This is not an option for the keyword trigger, but feel free to add another keyword trigger if needed.
