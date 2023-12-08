@@ -2,7 +2,7 @@
 # RemoveBG Alfred Workflow
 An Alfred workflow that uses the RemoveBG API to remove image backgrounds.<br>
 It performs significantly better than Apple's background removal especially for complex images.<br>
-File types supported: .jpeg/.jpg/.png/.webp<br>
+File types supported: `.jpeg/.jpg/.png/.webp`<br>
 Non-PNG images will be converted to PNG first automatically.<br>
 Supports keyword trigger or File Action.<br>
 
@@ -16,7 +16,3 @@ Supports keyword trigger or File Action.<br>
 1. Keyword Trigger: `rmbg` filename (supports single file only)
 2. File Action: Select one or multiple files, and choose "Remove BG" from the results.<br>
 3. In File Action there is an option to choose in-place/non in-place. This is not an option for the keyword trigger, but feel free to add another keyword trigger if needed.
-
----
-
-[GitHub Page](https://github.com/csjaugustus/removebg-alfred-workflow/)
