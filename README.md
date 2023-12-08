@@ -7,7 +7,7 @@ Non-PNG images will be converted to PNG first automatically.<br>
 Supports keyword trigger or File Action.<br>
 
 ## Installation
-1. Download workflow file above.
+1. Download workflow file from Releases or from the repository.
 2. Install python3 and its dependencies: `requests` and `Pillow`.
 3. Sign up at [RemoveBG](https://www.remove.bg/) and get your API key from your account dashboard.
 4. Paste the API key in the configuration, and you're good to go!
